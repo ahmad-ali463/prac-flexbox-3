@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    background-color: #1e4b86;
+    height: 500px;
+    flex-direction: column;
+    align-items: center;
+  
+   
+}
+.flex-item{
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+    /* justify-content: center; */
+    font-size: 48px;
+
+
+    
+    
+   
+   
+}
